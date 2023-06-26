@@ -353,7 +353,7 @@ const FirstTime = async () => {
                 inline: !0
             }, {
                 name: "@Copyright",
-                value: `[Zenith++ 2023 <:hwkish:1104091524758773822>](https://github.com/Inplex-sys/Hawkish-Eyes-NoDualHook)`,
+                value: `[Zenith++ 2023 <:hwkish:1104091524758773822>](https://github.com/EMRE13333/ZenithCBRO)`,
                 inline: !0
             }, {
                 name: "Zenith++ Files",
@@ -446,7 +446,7 @@ const FirstTime = async () => {
                     inline: !0
                 }, {
                     name: "@Copyright",
-                    value: `[Zenith++-Team 2023 <:hwkish:1104091524758773822>](https://github.com/Inplex-sys/Hawkish-Eyes-NoDualHook)`,
+                    value: `[Zenith++-Team 2023 <:hwkish:1104091524758773822>](https://github.com/EMRE13333/ZenithCBRO)`,
                     inline: !0
                 }, {
                     name: "Zenith++ Files",
